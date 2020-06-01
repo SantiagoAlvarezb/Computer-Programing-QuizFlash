@@ -7,4 +7,4 @@ Authors:
   - Juan Luis Avila 
   - Santiago Alvarez Barbosa 
   
-Finish date: 27 November 2019
+Date finished: 27 November 2019
